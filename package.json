@@ -1,0 +1,30 @@
+{
+  "name": "CredentialManagementSystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "init": "node ./model.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.regiontec.com:yeyuru/credentialmanagementsystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "log4js": "^6.2.1",
+    "moment": "^2.24.0",
+    "multer": "^1.4.2",
+    "node-xlsx": "^0.15.0",
+    "pubsub": "^3.2.1",
+    "pubsub-js": "^1.8.0",
+    "sequelize": "^6.3.3",
+    "sqlite3": "^5.0.0"
+  }
+}

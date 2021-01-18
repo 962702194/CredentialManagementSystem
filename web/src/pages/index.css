@@ -1,0 +1,44 @@
+.border{
+  width:50%;
+  border:1px solid #a4d8ec;
+  border-radius:3px ;
+  padding:10px;
+  margin: auto;
+}
+
+.label{
+  width:30%;
+  color:#015293;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.button{
+  width:70%;
+  height:40px;
+  color:#fff;
+  font-size: 15px;
+  border: 0;
+  background-color:#005292 ;
+  margin-left:41px;
+}
+
+.input{
+  width:70%;
+  height:25px;
+}
+
+.remark{
+  margin:auto;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.manage{
+  width:50%;
+  color:#015293;
+  text-align: right;
+  font-weight: bold;
+  margin:auto;
+  margin-top: 20px;
+}
